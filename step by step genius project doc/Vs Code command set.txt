@@ -1,0 +1,16 @@
+
+theme extention
+============
+pretti install
+-formate document
+- formate on save
+- pretti width
+-word wrap on
+metarial icon theme install
+Auto rename tage install
+live server install
+-auto save on -setting theke
+live server preview install
+css peek install
+intellisense for class name isntall
+html css support instal
